@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动手学深度学习.md",
+                "file": "通信原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63694b8c49e2baad",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动手学深度学习.md",
+                "file": "通信原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动手学深度学习.md",
+                "file": "通信原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动手学深度学习.md"
+                "file": "通信原理.md"
               }
             }
           }
@@ -148,12 +149,14 @@
   },
   "active": "0644462e3b6c07e4",
   "lastOpenFiles": [
+    "矩形函数傅氏变换.png",
+    "动手学深度学习（三）.md",
+    "动手学深度学习.md",
     "模拟电子技术基础 第5版 学习辅导与习题解答 (华成英) (Z-Library)_3.pdf",
     "模拟电子技术基础 (清华大学电子学教研组编；童诗白，华成英原主编；华成英，叶朝辉修订者) (Z-Library)_3.pdf",
     "物理学 （第七版） 上册 (东南大学等七所工科院校, 马文蔚, 周雨清, 解希顺) (Z-Library).pdf",
     "物理学 （第七版） 下册 (东南大学等七所工科院校, 马文蔚, 解希顺, 周雨青) (Z-Library).pdf",
     "2025考研数学李永乐复习全书基础篇.pdf",
-    "《编码的奥秘》.md",
-    "动手学深度学习.md"
+    "《编码的奥秘》.md"
   ]
 }
