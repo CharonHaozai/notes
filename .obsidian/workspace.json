@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86239788c1148a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通信电子电路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63694b8c49e2baad",
@@ -149,7 +160,9 @@
   },
   "active": "0644462e3b6c07e4",
   "lastOpenFiles": [
+    "通信电子电路.md",
     "通信原理.md",
+    "2024-10-12.md",
     "矩形函数傅氏变换.png",
     "动手学深度学习（三）.md",
     "动手学深度学习.md",
