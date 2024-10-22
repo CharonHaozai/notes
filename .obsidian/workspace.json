@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0644462e3b6c07e4",
+            "id": "e02690f7a01ae4d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通信原理.md",
+                "file": "通信电子电路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12caabd307f7f1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动手学深度学习（四）：多层感知机.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b796d06760f908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通信电子电路作业（二）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63694b8c49e2baad",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "通信原理.md",
+                "file": "动手学深度学习（四）：多层感知机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "通信原理.md",
+                "file": "动手学深度学习（四）：多层感知机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通信原理.md"
+                "file": "动手学深度学习（四）：多层感知机.md"
               }
             }
           }
@@ -147,11 +171,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0644462e3b6c07e4",
+  "active": "12caabd307f7f1e1",
   "lastOpenFiles": [
+    "动手学深度学习（三）.md",
+    "动手学深度学习（四）：多层感知机.md",
+    "通信电子电路.md",
+    "通信电子电路作业（二）.md",
     "通信原理.md",
     "矩形函数傅氏变换.png",
-    "动手学深度学习（三）.md",
     "动手学深度学习.md",
     "模拟电子技术基础 第5版 学习辅导与习题解答 (华成英) (Z-Library)_3.pdf",
     "模拟电子技术基础 (清华大学电子学教研组编；童诗白，华成英原主编；华成英，叶朝辉修订者) (Z-Library)_3.pdf",
