@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e02690f7a01ae4d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "通信电子电路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12caabd307f7f1e1",
+            "id": "709c841e33520bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,23 +16,12 @@
                 "file": "动手学深度学习（四）：多层感知机.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c8b796d06760f908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "通信电子电路作业（二）.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "动手学深度学习（四）：多层感知机"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -79,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -87,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -118,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "动手学深度学习（四）：多层感知机 的反向链接列表"
             }
           },
           {
@@ -130,7 +115,9 @@
                 "file": "动手学深度学习（四）：多层感知机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "动手学深度学习（四）：多层感知机 的出链列表"
             }
           },
           {
@@ -141,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -151,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "动手学深度学习（四）：多层感知机.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "动手学深度学习（四）：多层感知机 的大纲"
             }
           }
         ]
@@ -171,11 +162,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "12caabd307f7f1e1",
+  "active": "6851da0695cc1592",
   "lastOpenFiles": [
-    "动手学深度学习（三）.md",
-    "动手学深度学习（四）：多层感知机.md",
     "通信电子电路.md",
+    "动手学深度学习（四）：多层感知机.md",
+    "动手学深度学习（三）.md",
     "通信电子电路作业（二）.md",
     "通信原理.md",
     "矩形函数傅氏变换.png",
